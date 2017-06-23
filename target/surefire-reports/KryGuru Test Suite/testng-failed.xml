@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [KryGuru Test Suite]" parallel="classes">
+  <test name="KryGuru Test(failed)" parallel="classes">
+    <classes>
+      <class name="test.KryGuruTest">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="registrationTest"/>
+          <include name="setUp"/>
+          <include name="loginTest"/>
+          <include name="openBrwsr"/>
+          <include name="readConfig"/>
+          <include name="beforeMethod"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- test.KryGuruTest -->
+    </classes>
+  </test> <!-- KryGuru Test(failed) -->
+</suite> <!-- Failed suite [KryGuru Test Suite] -->

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="KryGuru Test Suite" duration-ms="41038" started-at="2017-06-23T16:46:23Z" finished-at="2017-06-23T16:47:05Z">
+    <groups>
+    </groups>
+    <test name="KryGuru Test" duration-ms="41038" started-at="2017-06-23T16:46:23Z" finished-at="2017-06-23T16:47:05Z">
+      <class name="test.KryGuruTest">
+        <test-method status="PASS" signature="readConfig(org.testng.ITestContext)[pri:0, instance:test.KryGuruTest@5ba23b66]" name="readConfig" is-config="true" duration-ms="39" started-at="2017-06-23T22:16:23Z" finished-at="2017-06-23T22:16:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@3c756e4d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.KryGuruTest@5ba23b66]" name="setUp" is-config="true" duration-ms="6628" started-at="2017-06-23T22:16:23Z" finished-at="2017-06-23T22:16:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="openBrwsr()[pri:0, instance:test.KryGuruTest@5ba23b66]" name="openBrwsr" is-config="true" duration-ms="3583" started-at="2017-06-23T22:16:30Z" finished-at="2017-06-23T22:16:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrwsr -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.KryGuruTest@5ba23b66]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-06-23T22:16:30Z" finished-at="2017-06-23T22:16:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.KryGuruTest.loginTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:test.KryGuruTest@5ba23b66]" name="loginTest" duration-ms="3718" started-at="2017-06-23T22:16:34Z" finished-at="2017-06-23T22:16:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.KryGuruTest@5ba23b66]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-06-23T22:16:37Z" finished-at="2017-06-23T22:16:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.KryGuruTest.registrationTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="openBrwsr()[pri:0, instance:test.KryGuruTest@5ba23b66]" name="openBrwsr" is-config="true" duration-ms="848" started-at="2017-06-23T22:16:37Z" finished-at="2017-06-23T22:16:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrwsr -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:test.KryGuruTest@5ba23b66]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-06-23T22:16:37Z" finished-at="2017-06-23T22:16:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="registrationTest()[pri:0, instance:test.KryGuruTest@5ba23b66]" name="registrationTest" duration-ms="25581" started-at="2017-06-23T22:16:38Z" finished-at="2017-06-23T22:17:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:test.KryGuruTest@5ba23b66]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-06-23T22:17:04Z" finished-at="2017-06-23T22:17:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.KryGuruTest@5ba23b66]" name="tearDown" is-config="true" duration-ms="654" started-at="2017-06-23T22:17:04Z" finished-at="2017-06-23T22:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.KryGuruTest -->
+    </test> <!-- KryGuru Test -->
+  </suite> <!-- KryGuru Test Suite -->
+</testng-results>
